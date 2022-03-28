@@ -1,0 +1,9 @@
+p	{
+	line-height: 3px;	
+	letter-spacing: 3px;	
+	word-spacing: 5px;	
+	text-indent: 30px;	
+}
+ p {
+    background-color:	yellow; 
+}
